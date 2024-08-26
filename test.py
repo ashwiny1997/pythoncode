@@ -1,1 +1,1 @@
-print "My python Program"
+print("Hello Python")
